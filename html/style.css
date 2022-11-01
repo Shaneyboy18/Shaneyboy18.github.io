@@ -1,0 +1,108 @@
+body {
+    background-color: black;
+    background-image: url(/img/bg_site3.jpg);
+}
+
+p {
+    color: white;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.indextext {
+    padding-top: 300px;
+    text-align: center;
+    color: white;
+}
+
+.aboutmeImage { 
+    margin-top: 5rem;   
+    width: 25rem;
+    object-fit: cover;
+}
+
+.aboutmeText { 
+    margin-top: 8rem;   
+    color: white;
+}
+
+.aboutmeList {
+    margin-top: 3rem;
+    color: white;
+}
+
+.aboutmecont {
+    margin-top: 8rem;
+        
+}
+
+.projectscont {
+    margin-top: 10rem;
+}
+
+.projectsTitle {
+    padding-bottom: 2%;    
+    text-align: center;
+    color: white
+}
+
+.card-text {
+    color: black;
+}
+
+.card {
+    width: 25rem;
+    height: 27rem;
+}
+
+.projectsCard4 {
+    position: sticky;
+    width: 25rem;
+    height: 26.2rem;
+    margin-left: 10rem;
+    margin-top: 7rem;
+}
+
+.projectsCard5 {
+    position: sticky;
+    width: 25rem;
+    height: 26.2rem;
+    margin-left: 46.2rem;
+    margin-top: -420px;
+}
+
+.projectsCard6 {
+    position: sticky;
+    width: 25rem;
+    height: 26.2rem;
+    margin-left: 82.5rem;
+    margin-top: -420px;
+}
+
+.resume {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    text-align: center;
+    height: auto;
+}
+.resumePic1 {       
+    width: 80%;
+    height: 80%;
+}
+.resumePic2 {       
+    width: 50%;
+    height: 50%;    
+}
+
+.formcontainer {
+    padding-top: 150px;
+    padding-left: 50px;
+    text-align: left;
+    color: white;
+}
+
+.formcolor {
+    color: white;
+}
