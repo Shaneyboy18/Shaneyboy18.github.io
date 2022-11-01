@@ -19,12 +19,11 @@ p {
 
 .aboutmeImage { 
     margin-top: 5rem;   
-    width: 25rem;
-    object-fit: cover;
+    width: 80%;    
 }
 
 .aboutmeText { 
-    margin-top: 8rem;   
+    margin-top: 6%;      
     color: white;
 }
 
@@ -36,6 +35,10 @@ p {
 .aboutmecont {
     margin-top: 8rem;
         
+}
+
+.test {
+    margin-left: 4rem;
 }
 
 .projectscont {
