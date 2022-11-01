@@ -43,10 +43,15 @@ p {
 
 .projectscont {
     margin-top: 10rem;
+    align-content: center;
+}
+
+.projectsrow {
+    padding-left: 3%;
 }
 
 .projectsTitle {
-    padding-bottom: 2%;    
+    padding-bottom: 1%;    
     text-align: center;
     color: white
 }
@@ -56,14 +61,9 @@ p {
 }
 
 .card {
-    width: 25rem;
-    height: 27rem;
-    margin-left: 2rem;
+    width: 23rem;
+    height: 27rem;    
     margin-top: 5%;       
-}
-
-.card2 {
-    margin-right: 1rem;
 }
 
 .resume {
