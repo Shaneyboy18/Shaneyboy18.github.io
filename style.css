@@ -70,15 +70,11 @@ p {
     padding-top: 150px;
     padding-bottom: 50px;
     text-align: center;
-    height: 60%;
+    height: 20%;
 }
 .resumePic1 {       
-    width: 50%;
-    height: 50%;
-}
-.resumePic2 {       
-    width: 50%;
-    height: 50%;    
+    width: 20%;
+    height: 20%;
 }
 
 .formcontainer {
